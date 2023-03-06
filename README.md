@@ -3,4 +3,4 @@ FaceEmotionRecognition
 
 
 
-<video src="https://github.com/noorkhokhar99/FaceEmotionRecognition/issues/1#issue-1610660718"></video>
+<video src="https://user-images.githubusercontent.com/34125851/223022317-83cbe5c8-bd3f-4c16-b282-085ff2bb464b.mp4"></video>
